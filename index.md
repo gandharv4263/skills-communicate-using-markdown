@@ -4,3 +4,7 @@
 ``` javascript
 var myVar = "Cat";
 ```
+- [ ] Persian Cat
+- [ ] Bengal Cat
+- [ ] Siamese Cat
+- [ ] Himalayan Cat
